@@ -18,6 +18,9 @@ steering angle and throttle is controlled to drive the car at a constant speed, 
 [first_turn2_img]:  ./examples/first_turn2.jpg
 [second_turn1_img]: ./examples/second_turn1.jpg
 [second_turn2_img]: ./examples/second_turn2.jpg
+[init_pass1_img]: ./examples/init_pass1.jpg
+[init_pass2_img]: ./examples/init_pass2.jpg
+
 [video]: ./final_run.mp4
 
 ## Rubric Points  
@@ -65,8 +68,12 @@ The breakdown of the final training data is as follows
 
 "Initial Passes" refers to driving continuously around the track in the normal direction.
 
-Some example images from these directories.
+Some example images from these generation sets are as follows.
 
+### Initial Passes
+Initial Pass 1         |  Initial Pass 2
+:-------------------------:|:-------------------------:
+![][init_pass1_img]        |  ![][init_pass2_img]
 
 ### Middle of Bridge
 Middle of Bridge 1         |  Middle of Bridge 2
