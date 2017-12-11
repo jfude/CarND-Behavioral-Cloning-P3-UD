@@ -30,7 +30,7 @@ which may be found [here](https://review.udacity.com/#!/rubrics/432/view).
 - [Discussion](#discussion)
 - [Training Data](#training-data)
 - [Model Architecture](#model-architecture)
-- [Autonomous Driving Video](autonomous-driving-video)
+- [Autonomous Driving Video](#autonomous-driving-video)
 
 
 ## Discussion
