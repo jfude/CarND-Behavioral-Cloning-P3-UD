@@ -46,7 +46,7 @@ zero degree turning angles throughout and hence is unable to drive the car corre
 Even with image data taken going in the opposite direction, and attempting to use the left and right camera images I was unable to get the car past the first turn. After further failed attempts, I decided to adopt the Nvidia architecture and only use the center camera images. Proper inclusion of left and right images I think is perhaps more complex than what is described in the instructional material. I also felt it was necessary to try to drive the car in training mode at the same speed that drive.py uses (9.0 mph), since the proper steering angle of course depends on the speed.  
 
 With the further addition of dropout after two of the fully connected layers in the network (see below),
-I found the car drove quite well before hitting the guard rail halfway across the bridge. At this point, 
+I found the car drove quite well before hitting the guard rail halfway across the bridge. Then, 
 I added further training data at this point on the bridge and on the subsequent two turns. I then found 
 the car drove around the complete track several times without issue. 
 
